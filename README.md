@@ -50,7 +50,7 @@ JavaScript – Game logic
 ▶️ How to Run the Game
 
 Download or clone this repository:
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/swayamswaraj/simon-game.git
 
 Open the project folder.
 Run index.html in any browser.
